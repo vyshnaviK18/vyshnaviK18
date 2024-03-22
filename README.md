@@ -34,7 +34,3 @@ A college junior is passionate about Python development and full-stack solutions
 <a href="http://www.github.com/vyshnaviK18"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vyshnaviK18&stroke=64748b&background=0f172a&ring=a855f7&fire=a855f7&currStreakNum=64748b&currStreakLabel=a855f7&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
 <a href="https://github.com/vyshnaviK18" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnaviK18&langs_count=10&title_color=a855f7&text_color=64748b&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/vyshnaviK18/ML-Forge-AI-to-visualize-and-understand-data-" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vyshnaviK18&repo=Neural-Networks-Deployed&title_color=a855f7&text_color=64748b&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/vyshnaviK18/Flappy-bird-with-NEAT" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vyshnaviK18&repo=CRSnet-croud-talling&title_color=a855f7&text_color=64748b&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
