@@ -6,6 +6,7 @@ Software Engineer
 
 A college junior is passionate about Python development and full-stack solutions. Actively coding, aspiring to contribute to open source, and eager to explore AI and ML for impactful solutions.
 
+
 * 🌍  I'm based in Chennai, Tamil Nadu
 * ✉️  You can contact me at [vyshnavikannan27@gmail.com](mailto:vyshnavikannan27@gmail.com)
 * 🚀  I'm currently working on [Croud Tolling Model](http://github.com/vyshnaviK18/CRSnet-croud-talling)
