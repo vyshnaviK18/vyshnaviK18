@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vyshnavi K
 ==================================================================================================================================
 
-ML Engineer| Junior Python Develpor| Data Analyst
+ML Engineer  |  Junior Python Develpor  |  Data Analyst
 -----------------
 
 A college junior is passionate about Python development and real world based solutions. Actively coding, aspiring to contribute to open source, and eager to explore AI and ML for impactful solutions.
