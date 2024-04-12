@@ -72,7 +72,7 @@ A college junior is passionate about Python development and full-stack solutions
 
 <div align="left">
 
-<a href="[https://www.substack.com](https://vyshnavik.substack.com/)" target="_blank">
+<a href="https://vyshnavik.substack.com/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Substack&logo=substack&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Substack logo" />
 </a>
 
