@@ -23,16 +23,6 @@ A college junior is passionate about Python development and real world based sol
 
 
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/vyshnaviK18"><img src="https://github-readme-stats.vercel.app/api?username=vyshnaviK18&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=64748b&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="vyshnaviK18's GitHub stats" /></a>
-
-<a href="http://www.github.com/vyshnaviK18"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vyshnaviK18&stroke=64748b&background=0f172a&ring=a855f7&fire=a855f7&currStreakNum=64748b&currStreakLabel=a855f7&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
-
-<a href="https://github.com/vyshnaviK18" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnaviK18&langs_count=10&title_color=a855f7&text_color=64748b&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 
 
 <div align="left">
